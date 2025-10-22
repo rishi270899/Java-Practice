@@ -16,7 +16,7 @@ public class Vehicle {
     void start(){
         System.out.println("Vehicle is start");
     }
-    final void accelerate (){
+    void accelerate (){
         System.out.println("Vehicle is accelerate");
     }
     public Vehicle(){
